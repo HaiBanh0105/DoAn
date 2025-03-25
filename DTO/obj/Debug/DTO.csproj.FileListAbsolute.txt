@@ -1,0 +1,6 @@
+D:\HK4_CÔNG NGHỆ PHẦN MỀM\DoAn\DTO\bin\Debug\DTO.dll
+D:\HK4_CÔNG NGHỆ PHẦN MỀM\DoAn\DTO\bin\Debug\DTO.pdb
+D:\HK4_CÔNG NGHỆ PHẦN MỀM\DoAn\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\HK4_CÔNG NGHỆ PHẦN MỀM\DoAn\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\HK4_CÔNG NGHỆ PHẦN MỀM\DoAn\DTO\obj\Debug\DTO.dll
+D:\HK4_CÔNG NGHỆ PHẦN MỀM\DoAn\DTO\obj\Debug\DTO.pdb
